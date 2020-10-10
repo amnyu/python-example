@@ -1,3 +1,2 @@
 # python-example
-Edit XDXD
-zxczxczxczxczxczx
+![Build status](https://travis-ci.org/amnyu/python-example.svg)
